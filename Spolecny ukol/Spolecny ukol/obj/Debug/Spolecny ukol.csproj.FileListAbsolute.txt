@@ -1,0 +1,10 @@
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\bin\Debug\Spolecny ukol.exe.config
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\bin\Debug\Spolecny ukol.exe
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\bin\Debug\Spolecny ukol.pdb
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\obj\Debug\Spolecny ukol.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\obj\Debug\Spolecny_ukol.Form1.resources
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\obj\Debug\Spolecny_ukol.Properties.Resources.resources
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\obj\Debug\Spolecny ukol.csproj.GenerateResource.cache
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\obj\Debug\Spolecny ukol.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\obj\Debug\Spolecny ukol.exe
+D:\Antonín Štolfa\Programování\C#\Spolecny ukol\Spolecny ukol\obj\Debug\Spolecny ukol.pdb
